@@ -1,0 +1,561 @@
+.final-website-child {
+  position: absolute;
+  top: 1487px;
+  left: 3px;
+  width: 1500px;
+  height: 4.16px;
+}
+.final-website-item {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1505px;
+  height: 68px;
+}
+.eyeblink-cover-3-icon {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 1505px;
+  height: 403px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.deltax-logo-2 {
+  position: absolute;
+  top: 15px;
+  left: 50px;
+  width: 108px;
+  height: 44px;
+  object-fit: cover;
+}
+.contact,
+.home,
+.product,
+.purchase {
+  text-decoration: none;
+  position: absolute;
+  top: 21px;
+  left: 760px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.2em;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 203px;
+  height: 32px;
+  cursor: pointer;
+}
+.contact,
+.product,
+.purchase {
+  left: 800px;
+  width: 145px;
+}
+.contact,
+.purchase {
+  left: 929px;
+  width: 146px;
+}
+.contact {
+  left: 1066px;
+  width: 145px;
+}
+.group-icon,
+.vector-icon {
+  position: absolute;
+  height: 47.83%;
+  width: 43.17%;
+  top: 7.34%;
+  right: 11.75%;
+  bottom: 44.84%;
+  left: 45.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon {
+  height: 81.32%;
+  width: 79.11%;
+  top: 17.24%;
+  right: 20.89%;
+  bottom: 1.44%;
+  left: 0;
+}
+.final-website-inner,
+.line-mdmoon-alt-loop {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+  top: 17px;
+}
+.line-mdmoon-alt-loop {
+  background-color: transparent;
+  left: 1291px;
+  width: 25px;
+  height: 23px;
+  overflow: hidden;
+}
+.final-website-inner {
+  background-color: var(--color-white);
+  left: 1351px;
+  border-radius: var(--br-81xl);
+  width: 62px;
+  height: 30px;
+}
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 52.6%;
+  width: 53.75%;
+  top: 54.83%;
+  right: 56.53%;
+  bottom: -7.43%;
+  left: -10.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2 {
+  height: 78.62%;
+  width: 75.54%;
+  top: -3.75%;
+  right: -5.84%;
+  bottom: 25.13%;
+  left: 30.3%;
+}
+.group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 0.85%;
+  width: 1.34%;
+  top: 0.97%;
+  right: 7.45%;
+  bottom: 98.19%;
+  left: 91.21%;
+  transform: rotate(2.93deg);
+  transform-origin: 0 0;
+}
+.rectangle-nav {
+  margin: 0;
+  position: absolute;
+  top: 68px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.64) 53.13%,
+    rgba(0, 0, 0, 0.82) 99.99%,
+    transparent
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1505px;
+  height: 42px;
+}
+.blink-to-controlwhere,
+.eye-blink-detector {
+  margin: 0;
+  position: absolute;
+  top: 75px;
+  left: 1009px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  width: 438px;
+  height: 29px;
+}
+.blink-to-controlwhere {
+  top: 199px;
+  left: 979px;
+  font-size: var(--font-size-5xl);
+  width: 490px;
+  height: 70px;
+  -webkit-text-stroke: 1px #000;
+  mix-blend-mode: normal;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: rgba(4, 159, 133, 0.83);
+  position: absolute;
+  top: 323px;
+  left: 1126px;
+  border-radius: var(--br-81xl);
+  width: 165px;
+  height: 46px;
+}
+.get-starte {
+  letter-spacing: 0.08em;
+}
+.d {
+  letter-spacing: 0.11em;
+}
+.get-started {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 332px;
+  left: 1139px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 139px;
+  height: 26px;
+}
+.top-generative-ai-companies-2-icon {
+  position: absolute;
+  top: 779px;
+  left: 0;
+  width: 1505px;
+  height: 623px;
+  object-fit: cover;
+}
+.rectangle-section {
+  position: absolute;
+  top: 895px;
+  left: 387px;
+  border-radius: var(--br-31xl);
+  background-color: rgba(0, 0, 0, 0.78);
+  box-shadow: 0 4px 1000px rgba(0, 0, 0, 0.25) inset;
+  width: 261px;
+  height: 369px;
+  mix-blend-mode: soft-light;
+}
+.istockphoto-1429456277-170667a-icon {
+  position: absolute;
+  top: 904px;
+  left: 391px;
+  border-radius: var(--br-31xl);
+  width: 257px;
+  height: 157px;
+  object-fit: cover;
+}
+.to-purchase-our {
+  margin: 0;
+  position: absolute;
+  top: 1079px;
+  left: 401px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.08em;
+  display: inline-block;
+  width: 233px;
+  height: 56px;
+}
+.click-here,
+.final-website-child1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.final-website-child1 {
+  background-color: var(--color-aquamarine);
+  top: 1165px;
+  left: 435px;
+  border-radius: var(--br-81xl);
+  width: 165px;
+  height: 46px;
+}
+.click-here {
+  background-color: transparent;
+  top: 1176px;
+  left: 448px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 140px;
+  height: 24px;
+}
+.arduino-uno-r3-1-icon,
+.final-website-child2 {
+  position: absolute;
+  left: 861px;
+  border-radius: var(--br-31xl);
+  width: 261px;
+}
+.final-website-child2 {
+  top: 901px;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 800px rgba(0, 0, 0, 0.25) inset;
+  height: 363px;
+  mix-blend-mode: soft-light;
+}
+.arduino-uno-r3-1-icon {
+  top: 900px;
+  height: 161px;
+  object-fit: cover;
+}
+.to-know-more {
+  margin: 0;
+  position: absolute;
+  top: 1090px;
+  left: 861px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.08em;
+  display: inline-block;
+  width: 267px;
+  height: 95px;
+  mix-blend-mode: normal;
+}
+.click-here1,
+.final-website-child3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.final-website-child3 {
+  background-color: var(--color-aquamarine);
+  top: 1165px;
+  left: 909px;
+  border-radius: var(--br-81xl);
+  width: 165px;
+  height: 46px;
+}
+.click-here1 {
+  background-color: transparent;
+  top: 1176px;
+  left: 929px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 126px;
+  height: 24px;
+}
+.line-icon,
+.why-we-need {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.why-we-need {
+  margin: 0;
+  top: 1505px;
+  left: 545px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-black);
+  display: inline-block;
+  width: 450px;
+  height: 31px;
+}
+.line-icon {
+  top: 1480.34px;
+  left: 0;
+  width: 1505px;
+  height: 21.33px;
+  opacity: 0.2;
+}
+.final-website-child4,
+.rectangle-icon {
+  position: absolute;
+  top: 1543.99px;
+  left: 0;
+  width: 1505px;
+  height: 6.01px;
+  object-fit: cover;
+}
+.rectangle-icon {
+  top: 1613px;
+  left: 336px;
+  border-radius: var(--br-31xl);
+  width: 928px;
+  height: 119px;
+}
+.in-2021-drowsiness {
+  margin: 0;
+  position: absolute;
+  top: 1636px;
+  left: 353px;
+  letter-spacing: 0.08em;
+  font-family: var(--font-jomolhari);
+  display: inline-block;
+  width: 897px;
+  height: 69px;
+}
+.final-website-child5 {
+  position: absolute;
+  top: 2231px;
+  left: 0;
+  width: 1497px;
+  height: 4px;
+  object-fit: cover;
+}
+.the-indian-government,
+.the-indian-railways,
+.to-improve-road {
+  margin: 0;
+  position: absolute;
+  top: 1820px;
+  left: 212px;
+  letter-spacing: 0.08em;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 1122px;
+  height: 69px;
+}
+.the-indian-government,
+.the-indian-railways {
+  top: 1932px;
+  width: 1111px;
+}
+.the-indian-railways {
+  top: 2031px;
+  height: 62px;
+}
+.final-website-child6,
+.final-website-child7,
+.final-website-child8 {
+  position: absolute;
+  top: 1865px;
+  left: 139px;
+  width: 6px;
+  height: 27px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.final-website-child7,
+.final-website-child8 {
+  top: 1855px;
+  left: 148px;
+  height: 37px;
+}
+.final-website-child8 {
+  top: 1840px;
+  left: 158px;
+  height: 52px;
+}
+.final-website-child10,
+.final-website-child11,
+.final-website-child9 {
+  position: absolute;
+  top: 1953px;
+  left: 142px;
+  width: 6px;
+  height: 27px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.final-website-child10,
+.final-website-child11 {
+  top: 1943px;
+  left: 151px;
+  height: 37px;
+}
+.final-website-child11 {
+  top: 1928px;
+  left: 161px;
+  height: 52px;
+}
+.final-website-child12,
+.final-website-child13,
+.final-website-child14 {
+  position: absolute;
+  top: 2058px;
+  left: 148px;
+  width: 6px;
+  height: 27px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.final-website-child13,
+.final-website-child14 {
+  top: 2048px;
+  left: 157px;
+  height: 37px;
+}
+.final-website-child14 {
+  top: 2033px;
+  left: 167px;
+  height: 52px;
+}
+.final-website-child15 {
+  position: absolute;
+  top: 489px;
+  left: 14px;
+  border-radius: var(--br-31xl);
+  width: 1468px;
+  height: 270px;
+  object-fit: cover;
+}
+.product-overview- {
+  margin: 0;
+  position: absolute;
+  top: 588px;
+  left: 5px;
+  font-size: 26px;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  font-family: inherit;
+  color: var(--color-black);
+  display: inline-block;
+  width: 305px;
+  height: 49px;
+}
+.eb5sjys1l-1-icon {
+  position: absolute;
+  top: 498.19px;
+  left: 1096.19px;
+  border-radius: 126.45px;
+  width: 294.65px;
+  height: 253.63px;
+  object-fit: cover;
+}
+.an-eye-blink {
+  margin: 0;
+  position: absolute;
+  top: 532px;
+  left: 316px;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 733px;
+  height: 210px;
+}
+.final-website {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2235px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .click-here,
+  .click-here1,
+  .get-started {
+    cursor: pointer;
+  }
+}
